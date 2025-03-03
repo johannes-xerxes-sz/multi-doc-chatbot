@@ -100,7 +100,13 @@ Click `POST /ask`, then enter a question in the request body.
 ✅ **Enhance Security**: Implement rate-limiting and input validation.
 ✅ **Deploy API**: Run on AWS/GCP/Docker for scalability.
 
+### **Run the CLI Version**
 ![App Screenshot](./img/app-screenshot.png)
+
+### **Run the API Version**
+![App Screenshot](./img/Screenshot 2025-03-03 145102.png)
+![App Screenshot](./img/Screenshot 2025-03-03 145244.png)
+![App Screenshot](./img/Screenshot 2025-03-03 145324.png)
 
 ---
 
