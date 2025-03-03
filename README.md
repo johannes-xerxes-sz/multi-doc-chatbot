@@ -104,9 +104,9 @@ Click `POST /ask`, then enter a question in the request body.
 ![App Screenshot](./img/app-screenshot.png)
 
 ### **Run the API Version**
-![App Screenshot](./img/Screenshot 2025-03-03 145102.png)
-![App Screenshot](./img/Screenshot 2025-03-03 145244.png)
-![App Screenshot](./img/Screenshot 2025-03-03 145324.png)
+![App Screenshot](./img/api1.png)
+![App Screenshot](./img/api2.png)
+![App Screenshot](./img/api3.png)
 
 ---
 
